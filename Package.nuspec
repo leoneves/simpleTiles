@@ -8,10 +8,13 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/leoneves/simpleTiles/</projectUrl>
-    <icon>http://icon_url_here_or_delete_this_line/</icon>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
     <description>A simple library to split sheet in sprites</description>
     <releaseNotes>First change.</releaseNotes>
     <copyright>Copyright 2020</copyright>
     <tags></tags>
   </metadata>
+  <files>
+    <file src="SimpleTiles\bin\Release\netstandard2.0\SimpleTiles.dll" target="lib\netstandard2.0"></file>
+  </files>
 </package>
