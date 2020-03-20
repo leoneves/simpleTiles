@@ -22,9 +22,9 @@ namespace SimpleTiles
                 {
                     var source = new Rectangle(x * width, y * height, width, height);
                     Texture2D croppedTexture2d = new Texture2D(sprite_sheet.GraphicsDevice, width, height);
-                    Color[] data = new Color[source.Width * source.Height];
-                    sprite_sheet.GetData(0, source, data, 0, data.Length);
-                    croppedTexture2d.SetData(data);
+                    Color[] data_destination = new Color[width * height];
+                    sprite_sheet.GetData(0, source, data_destination, 0, data_destination.Length);
+                    croppedTexture2d.SetData(data_destination);
                     sprites.Add(croppedTexture2d);
                 }
             }
