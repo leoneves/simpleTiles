@@ -2,13 +2,13 @@
 <package >
   <metadata>
     <id>SimpleTiles</id>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <authors>leonardoneves</authors>
     <owners>leonardoneves</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
-    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <icon>http://icon_url_here_or_delete_this_line/</icon>
     <description>A simple library to split sheet in sprites</description>
     <releaseNotes>First change.</releaseNotes>
     <copyright>Copyright 2020</copyright>
