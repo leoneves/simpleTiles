@@ -2,12 +2,12 @@
 <package >
   <metadata>
     <id>SimpleTiles</id>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <authors>leonardoneves</authors>
     <owners>leonardoneves</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <projectUrl>https://github.com/leoneves/simpleTiles/</projectUrl>
     <icon>http://icon_url_here_or_delete_this_line/</icon>
     <description>A simple library to split sheet in sprites</description>
     <releaseNotes>First change.</releaseNotes>
